@@ -66,12 +66,4 @@ GenerativeAI_CyberThreatIntel/
 
 ---
 
-## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests for enhancements or bug fixes.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
