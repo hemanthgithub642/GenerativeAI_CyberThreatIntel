@@ -26,7 +26,7 @@ GenerativeAI_CyberThreatIntel/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/GenerativeAI_CyberThreatIntel.git
+   git clone https://github.com/hemanthgithub642/GenerativeAI_CyberThreatIntel.git
    cd GenerativeAI_CyberThreatIntel
    ```
 
