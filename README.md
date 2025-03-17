@@ -19,6 +19,7 @@ GenerativeAI_CyberThreatIntel/
 |-- README.md         # Project documentation
 |-- requirements.txt  # Python dependencies
 ```
+Reference Zip file Url: https://drive.google.com/file/d/176VVC2i3DSROimVnT4H3_tmBjQ5os9aF/view?usp=sharing 
 
 ---
 
