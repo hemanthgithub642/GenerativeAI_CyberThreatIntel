@@ -38,7 +38,7 @@ Reference Zip file Url: https://drive.google.com/file/d/176VVC2i3DSROimVnT4H3_tm
 
 3. **Run the Dashboard**:
    ```bash
-   streamlit run dashboard/main.py
+   streamlit run visualize.py
    ```
 
 ---
