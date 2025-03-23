@@ -5,7 +5,7 @@ import json
 api_url = "https://otx.alienvault.com/api/v1/pulses/subscribed"
 
 # Replace with your AlienVault API key
-headers = {"X-OTX-API-KEY": "your_api_key"}
+headers = {"X-OTX-API-KEY": "1096178ea98713c92129b419cf655115ae50ec8aa504f40b6c5a35b2d9e591fa"}
 
 response = requests.get(api_url, headers=headers)
 

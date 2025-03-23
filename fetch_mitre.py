@@ -2,7 +2,7 @@ import requests
 import json
 
 # Fetch MITRE ATT&CK data
-mitre_url = "https://cti-taxii.mitre.org/stix2"
+mitre_url = "https://raw.githubusercontent.com/mitre/cti/master/enterprise-attack/enterprise-attack.json"
 response = requests.get(mitre_url)
 
 if response.status_code == 200:

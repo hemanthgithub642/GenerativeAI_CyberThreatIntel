@@ -10,7 +10,7 @@ data = []
 
 for url in rss_feeds:
     feed = feedparser.parse(url)
-    for entry in feed.entries[:10]:  # Fetch only latest 10 news items
+    for entry in feed.entries[:10]:
         data.append({"title": entry.title, "link": entry.link, "summary": entry.summary})
 
 with open("data/cyber_rss.json", "w") as f:
