@@ -48,6 +48,8 @@ Reference Zip file Url: https://drive.google.com/file/d/1vVMyjC5zR5Wb9WF9owcUiCo
 - **Generative AI**: Hugging Face Transformers (e.g., BART, GPT-2)
 - **Data Sources**: MITRE ATT&CK, AlienVault OTX, cybersecurity RSS feeds
 - **Visualization**: Streamlit, Matplotlib, Plotly
+-  https://otx.alienvault.com/api - API URL
+-  https://github.com/mitre/cti/blob/master/enterprise-attack/enterprise-attack.json - MITRE DATA
 
 ---
 
