@@ -1,0 +1,102 @@
+[
+    {
+        "title": "What CISA's Red Team Disarray Means for US Cyber Defenses",
+        "link": "https://www.darkreading.com/threat-intelligence/cisa-red-team-disarray-cyber-defenses",
+        "summary": "DOGE is making wild moves at CISA, including bringing back fired probationary employees only to put them on paid leave, and reportedly gutting the agency's red teams."
+    },
+    {
+        "title": "Attackers Pivot to SEMrush Spoof to Steal Google Credentials",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-semrush-steal-google-credentials",
+        "summary": "The attackers are taking an indirect approach to targeting SEO professionals and their Google credentials, using a fake digital marketing website."
+    },
+    {
+        "title": "Nation-State 'Paragon' Spyware Infections Target Civil Society",
+        "link": "https://www.darkreading.com/application-security/nation-state-paragon-spyware-infections",
+        "summary": "Law enforcement entities in democratic states have been deploying top-of-the-line messaging app spyware against journalists and aid workers."
+    },
+    {
+        "title": "Why Cyber Quality Is the Key to Security",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/why-cyber-quality-key-security",
+        "summary": "The time to secure foundations, empower teams, and make cyber resilience the standard is now \u2014 because the cost of waiting is far greater than the investment in proactive security."
+    },
+    {
+        "title": "VexTrio Using 20,000 Hacked WordPress Sites in Traffic Redirect Scheme",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/vextrio-20000-hacked-wordpress-sites-traffic-redirect-scheme",
+        "summary": "A massive cybercrime network known as &quot;VexTrio&quot; is using thousands of compromised WordPress sites to funnel traffic through a complex redirection scheme."
+    },
+    {
+        "title": "University Competition Focuses on Solving Generative AI Challenges",
+        "link": "https://www.darkreading.com/application-security/university-competition-solving-generative-ai-challenges",
+        "summary": "The Amazon Nova AI Challenge puts student research to the test and aims to bring a new perspective to challenges arising from the increase in AI-assisted software development."
+    },
+    {
+        "title": "Why It's So Hard to Stop Rising Malicious TDS Traffic",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/why-hard-stop-rising-malicious-tds-traffic",
+        "summary": "Cybersecurity vendors say threat actors' abuse of traffic distribution systems (TDS) is becoming more complex and sophisticated \u2014 and much harder to detect and block."
+    },
+    {
+        "title": "Ukraine Defense Sector Under Attack via Dark Crystal RAT",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/ukraine-defense-sector-attack-dark-crystal-rat",
+        "summary": "The UNC-200 threat group, active since last summer, has been utilizing the Signal messaging app to social engineer targets into downloading an infostealing remote access Trojan."
+    },
+    {
+        "title": "Are We Closing the Gender Gap in Cybersecurity?",
+        "link": "https://www.darkreading.com/cybersecurity-operations/are-we-closing-gender-gap-cybersecurity",
+        "summary": "Answer: Nope. But let's look at the trends \u2014 because they matter for security."
+    },
+    {
+        "title": "HP Brings Quantum-Safe Encryption to Printers",
+        "link": "https://www.darkreading.com/endpoint-security/hp-brings-quantum-safe-encryption-printers",
+        "summary": "HP's 8000 Series enterprise and commercial printers, which include Color LaserJet Enterprise MFP 8801, Mono MFP 8601, and LaserJet Pro Mono SFP 8501, will feature new quantum ASICs and endpoint controllers to protect them from future quantum attacks."
+    },
+    {
+        "title": "Student Loan Breach Exposes 2.5M Records",
+        "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
+        "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line."
+    },
+    {
+        "title": "Watering Hole Attacks Push ScanBox Keylogger",
+        "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
+        "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool."
+    },
+    {
+        "title": "Tentacles of \u20180ktapus\u2019 Threat Group Victimize 130 Firms",
+        "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
+        "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system."
+    },
+    {
+        "title": "Ransomware Attacks are on the Rise",
+        "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
+        "summary": "Lockbit is by far this summer\u2019s most prolific ransomware group, trailed by two offshoots of the Conti group."
+    },
+    {
+        "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+        "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+        "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed."
+    },
+    {
+        "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+        "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+        "summary": "Twitter is blasted for security and privacy lapses by the company\u2019s former head of security who alleges the social media giant\u2019s actions amount to a national security risk."
+    },
+    {
+        "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+        "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+        "summary": "CISA is warning that Palo Alto Networks\u2019 PAN-OS is under active attack and needs to be patched ASAP."
+    },
+    {
+        "title": "Fake Reservation Links Prey on Weary Travelers",
+        "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+        "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels."
+    },
+    {
+        "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+        "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
+        "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack."
+    },
+    {
+        "title": "Google Patches Chrome\u2019s Fifth Zero-Day of the Year",
+        "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
+        "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack."
+    }
+]

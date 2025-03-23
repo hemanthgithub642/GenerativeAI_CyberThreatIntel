@@ -1,0 +1,82 @@
+[
+    {
+        "title": "What CISA's Red Team Disarray Means for US Cyber Defenses",
+        "summary": "DOGE is making wild moves at CISA, including bringing back fired probationary employees only to put them on paid leave. DOGE also reportedly gutting the agency's red teams."
+    },
+    {
+        "title": "Attackers Pivot to SEMrush Spoof to Steal Google Credentials",
+        "summary": "The attackers are taking an indirect approach to targeting SEO professionals and their Google credentials. They are using a fake digital marketing website to do so."
+    },
+    {
+        "title": "Nation-State 'Paragon' Spyware Infections Target Civil Society",
+        "summary": "Law enforcement entities in democratic states have been deploying top-of-the-line messaging app spyware against journalists and aid workers, it has been revealed."
+    },
+    {
+        "title": "Why Cyber Quality Is the Key to Security",
+        "summary": "The time to secure foundations, empower teams, and make cyber resilience the standard is now. The cost of waiting is far greater than the investment in proactive security."
+    },
+    {
+        "title": "VexTrio Using 20,000 Hacked WordPress Sites in Traffic Redirect Scheme",
+        "summary": "A massive cybercrime network is using thousands of compromised WordPress sites to funnel traffic through a complex redirection scheme. The network is called &quot;VexTrio&quot;\" and is based in the UK."
+    },
+    {
+        "title": "University Competition Focuses on Solving Generative AI Challenges",
+        "summary": "The Amazon Nova AI Challenge puts student research to the test. The challenge aims to bring a new perspective to challenges arising from the increase in AI-assisted software development."
+    },
+    {
+        "title": "Why It's So Hard to Stop Rising Malicious TDS Traffic",
+        "summary": "Vendors say threat actors' abuse of traffic distribution systems (TDS) is becoming more complex and sophisticated. Cybersecurity vendors say it is harder to detect and block."
+    },
+    {
+        "title": "Ukraine Defense Sector Under Attack via Dark Crystal RAT",
+        "summary": "The UNC-200 threat group, active since last summer, has been utilizing the Signal messaging app to social engineer targets into downloading an infostealing remote access Trojan."
+    },
+    {
+        "title": "Are We Closing the Gender Gap in Cybersecurity?",
+        "summary": "Security expert: \"I don't think it's going to get any worse\" Security expert: It's likely to get a little better."
+    },
+    {
+        "title": "HP Brings Quantum-Safe Encryption to Printers",
+        "summary": " HP's 8000 Series enterprise and commercial printers will feature new quantum ASICs and endpoint controllers to protect them from future quantum attacks. The new printers include Color LaserJet Enterprise MFP 8801, Mono MFP 8601, and LaserJet Pro Mono SFP 8501."
+    },
+    {
+        "title": "Student Loan Breach Exposes 2.5M Records",
+        "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line. 2.4 million people have been affected by the breach, according to reports."
+    },
+    {
+        "title": "Watering Hole Attacks Push ScanBox Keylogger",
+        "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423. The attack attempts to plant the ScanBox JavaScript-based reconnaissance tool."
+    },
+    {
+        "title": "Tentacles of \u20180ktapus\u2019 Threat Group Victimize 130 Firms",
+        "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system. Over 130 companies caught up in the scam."
+    },
+    {
+        "title": "Ransomware Attacks are on the Rise",
+        "summary": "Lockbit is by far this summer\u2019s most prolific ransomware group. It is trailed by two offshoots of the Conti group."
+    },
+    {
+        "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+        "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed. Thousands of organizations have been left exposed."
+    },
+    {
+        "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+        "summary": "Twitter's former head of security says the social media giant's actions amount to a national security risk. Twitter is blasted for security and privacy lapses by the company\u2019s former head."
+    },
+    {
+        "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+        "summary": "Palo Alto Networks\u2019 PAN-OS is under active attack and needs to be patched ASAP. CISA is warning that Palo Alto Networks' PAN- OS is underactive attack."
+    },
+    {
+        "title": "Fake Reservation Links Prey on Weary Travelers",
+        "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotel rooms."
+    },
+    {
+        "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+        "summary": "Apple releases fixes for flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack. Separate fixes to macOS and iOS patch respective flaws in WebKit and kernel."
+    },
+    {
+        "title": "Google Patches Chrome\u2019s Fifth Zero-Day of the Year",
+        "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack."
+    }
+]
